@@ -25,8 +25,5 @@ Agreement for the Learning session
 
 LOCATION OF DOCUMENTS FOR TRAINING:
 
-	•	GIT Locationn of Software_Installation.md - https://github.com/
-
-CTSJavaTraining/docs
-
+	•	GIT Locationn of Software_Installation.md -https://github.com/CTSJavaTraining/docs
 	•	GIT Locationn of Topics.md - https://github.com/CTSJavaTraining/docs
