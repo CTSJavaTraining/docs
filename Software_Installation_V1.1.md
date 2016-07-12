@@ -1,24 +1,24 @@
 
-INSTRUCTIONS TO GET ADMIN RIGHTS:
+## INSTRUCTIONS TO GET ADMIN RIGHTS: ##
 
 	1.	Go to the link https://onecognizant.cognizant.com/
 	2.	On the app store select “admin rights”
 	3.	Click on the One NSS app and register to get your admin rights.
 	4.	If you have any problems or doubts regarding this click on “expertchat” on your task bar. 
 	5.	The admin rights is required to install MAVEN and JAVA, without admin rights the system variables cannot be edited.
-		![alt text](docs/expert_touch.png "Expert touch chat to solve problems") 
+	![alt text](https://github.com/CTSJavaTraining/Images/blob/master/expert_touch.png "Admin_Rights") 
 	
-MAVEN INSTALLATION STEPS:
+## MAVEN INSTALLATION STEPS: ##
 
 	1.	Download Maven from website https://maven.apache.org/download.cgi 
 	2.	Click on the link apache-maven-3.3.9-bin.zip to get the zip file downloaded.
 	3.	Unzip the file and keep it in D:\ drive.
-	![alt tag](https://github.com/CTSJavaTraining/Images/blob/master/maven_download.png "Maven_Download")
+	![alt text](https://github.com/CTSJavaTraining/Images/blob/master/maven_download.png "Maven_Download")
 
-MAVEN INSTALLATION:
+## MAVEN INSTALLATION: ##
 
 	1.	Check if JAVA8 is installed in your system
-		![alt tag](https://github.com/CTSJavaTraining/Images/blob/master/Java_Version_Check.png "JAVA_VERSION_CHECK")
+		![alt text](https://github.com/CTSJavaTraining/Images/blob/master/Java_Version_Check.png "JAVA_VERSION_CHECK")
 
 		If JAVA 8 in not installed do the following steps.
 		a.	Raise phoenix request for JAVA 8 software.
@@ -35,7 +35,7 @@ MAVEN INSTALLATION:
 	5.	In command prompt type the command “mvn --version” to check if MAVEN is properly installed in your system.
 
 
-EDITING SETTINGS.XML FILE:
+## EDITING SETTINGS.XML FILE: ##
 
 	1.	Go to path “D:\apache-maven-3.3.9-bin\apache-maven-3.3.9\conf”
 	2.	Open settings.xml file and edit the <proxies> tag as:
@@ -51,14 +51,14 @@ EDITING SETTINGS.XML FILE:
  				</proxy>
  			</proxies>
 
-DOWNLOAD AND INSTALL GIT:
+## DOWNLOAD AND INSTALL GIT: ##
 
 	1.	Download GIT by clicking on the link https://git-for-windows.github.io/
 	2.	Double click on the file downloaded and select “Run”.
 	3.	Complete the install wizard.
 	4.	Check if GIT is properly installed in your system using command “git --version” in command prompt.
 
-DOWNLOAD AND INSTALL ECLIPSE IDE:
+## DOWNLOAD AND INSTALL ECLIPSE IDE: ##
 
 	1.	Raise a phoenix request for eclipse software “Eclipse Mars”.
 	2.	To raise phoenix request follow the steps given below:
@@ -74,7 +74,7 @@ DOWNLOAD AND INSTALL ECLIPSE IDE:
 		c.	Click "Install" button at "Maven Integration for Eclipse" section
 		d.	Follow the instruction step by step till finish.
 
-OTHER SOFTWARE REQUIRED:
+## OTHER SOFTWARE REQUIRED: ##
 
 	1.	Please do check if the following software is also available in your system SOAPUI,REST Postman,7ZIP, Jmeter
 	2.	Raise a phoenix request to get these software too.
