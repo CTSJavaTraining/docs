@@ -18,14 +18,12 @@
 ## MAVEN INSTALLATION: ##
 
 1. Check if JAVA8 is installed in your system
-
-![alt text](https://github.com/CTSJavaTraining/Images/blob/master/Java_Version_Check.png "JAVA_VERSION_CHECK")
-
 2. Start-> ControlPanel > System > Advanced system settings
 3. Click on the “edit” button under system variables and add “M2_HOME= D:\apache-maven-3.3.9-bin\apache-maven-3.3.9” and “MAVEN_HOME= D:\apache-maven-3.3.9-bin\apache-maven-3.3.9”.
 4. Also append the following to the path variable under system variable
   * %MVN_HOME%\bin; %JAVA_HOME%\bin\
 5. In command prompt type the command “mvn --version” to check if MAVEN is properly installed in your system.
+![alt text](https://github.com/CTSJavaTraining/Images/blob/master/Java_Version_Check.png "JAVA_VERSION_CHECK")
 
 ## EDITING SETTINGS.XML FILE: ##
 
