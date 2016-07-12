@@ -56,18 +56,21 @@
 
 ## DOWNLOAD AND INSTALL ECLIPSE IDE: ##
 
-1. Raise a phoenix request for eclipse software “Eclipse Mars”.
-2. To raise phoenix request follow the steps given below:
+1.	Raise a phoenix request for eclipse software “Eclipse Mars”.
+2.	To raise phoenix request follow the steps given below:
 
-	a. Click on the link https://onecognizant.cognizant.com/.
-	b. In the app store search for phoenix.
-	c. Give install Eclipse Mars as problem statement.
-	d. Raise a request.
-	e. If you have further doubts do chat with “experttouch”.
-	
-3. Once the software is installed open the folder and double click on the .exe file to open and work with eclipse.
-4. Install Maven plugin from store by following the steps given below:
-	
+		a.	Click on the link https://onecognizant.cognizant.com/.
+		b.	In the app store search for phoenix.
+		c.	Give install Eclipse Mars as problem statement.
+		d.	Raise a request.
+		e.	If you have further doubts do chat with “experttouch”.
+3.	Once the software is installed open the folder and double click on the .exe file to open and work with eclipse.
+4.	Install Maven plugin from store by following the steps given below:
+
+		a.	Go to Help -> Eclipse Marketplace
+		b.	Search by Maven
+		c.	Click "Install" button at "Maven Integration for Eclipse" section
+		d.	Follow the instruction step by step till finish.
 
 ## OTHER SOFTWARE REQUIRED: ##
 
