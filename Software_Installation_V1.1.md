@@ -6,7 +6,7 @@
 	3.	Click on the One NSS app and register to get your admin rights.
 	4.	If you have any problems or doubts regarding this click on “expertchat” on your task bar. 
 	5.	The admin rights is required to install MAVEN and JAVA, without admin rights the system variables cannot be edited.
-		https://cloud.githubusercontent.com/assets/20299950/16759271/bccd3f14-4833-11e6-8285-471f649496b6.png 
+		![alt text] (https://cloud.githubusercontent.com/assets/20299950/16759271/bccd3f14-4833-11e6-8285-471f649496b6.png)
 	
 ## MAVEN INSTALLATION STEPS: ##
 
