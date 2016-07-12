@@ -42,16 +42,16 @@
 	
 ```xml
 <proxies>
-    			<proxy>
-      				<id>optional</id>
-     				<active>true</active>
-      				<protocol>http</protocol>
-      				<username>cts\Your EmpID</username>
-      				<password>Provide your password</password>
-      				<host>proxy.cognizant.com</host>
-      				<port>6050</port>
- 				</proxy>
- 			</proxies>
+    	<proxy>
+	      	<id>optional</id>
+	     	<active>true</active>
+	      	<protocol>http</protocol>
+	      	<username>cts\Your EmpID</username>
+	      	<password>Provide your password</password>
+	      	<host>proxy.cognizant.com</host>
+	      	<port>6050</port>
+ 	</proxy>
+</proxies>
 ```
 
 
