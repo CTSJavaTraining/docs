@@ -22,7 +22,6 @@
 ![alt text](https://github.com/CTSJavaTraining/Images/blob/master/Java_Version_Check.png "JAVA_VERSION_CHECK")
 
   If JAVA 8 in not installed do the following steps.
-	
   * Raise phoenix request for JAVA 8 software.
   * Once the software is installed in path “C:\Program Files\Java”
   * Start-> ControlPanel > System > Advanced system settings
