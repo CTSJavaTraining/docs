@@ -7,4 +7,6 @@
 
 [Topics to be covered Document](https://github.com/CTSJavaTraining/docs/blob/master/Topics.md)
 
-[Case Study and Demo Project](https://github.com/CTSJavaTraining/JulyTraining2016)
+[Case Study](https://github.com/CTSJavaTraining/JulyTraining2016/blob/master/docs/case-study-online-library.md)
+
+[Demo Project](https://github.com/CTSJavaTraining/JulyTraining2016)
