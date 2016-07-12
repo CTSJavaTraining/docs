@@ -18,6 +18,15 @@
 ## MAVEN INSTALLATION: ##
 
 1. Check if JAVA8 is installed in your system
+        
+      If JAVA 8 in not installed do the following steps.
+	* Raise phoenix request for JAVA 8 software.
+   	* Once the software is installed in path “C:\Program Files\Java”
+   	* Start-> ControlPanel > System > Advanced system settings
+   	* Click on the “edit” button under system variables and add “JAVA_HOME to C:\Program Files\Java\jdk1.8.0_91
+   	* Ensure JDK is installed and not JRE
+   	* Check if JAVA is installed properly using the command “java -version” in command prompt.
+   	
 2. Start-> ControlPanel > System > Advanced system settings
 3. Click on the “edit” button under system variables and add “M2_HOME= D:\apache-maven-3.3.9-bin\apache-maven-3.3.9” and “MAVEN_HOME= D:\apache-maven-3.3.9-bin\apache-maven-3.3.9”.
 4. Also append the following to the path variable under system variable
@@ -56,19 +65,18 @@
 
 1. Raise a phoenix request for eclipse software “Eclipse Mars”.
 2. To raise phoenix request follow the steps given below:
-
-		a. Click on the link https://onecognizant.cognizant.com/.
-		b. In the app store search for phoenix.
-		c. Give install Eclipse Mars as problem statement.
-		d. Raise a request.
-		e. If you have further doubts do chat with “experttouch”.
+   * Click on the link https://onecognizant.cognizant.com/.
+   * In the app store search for phoenix.
+   * Give install Eclipse Mars as problem statement.
+   * Raise a request.
+   * If you have further doubts do chat with “experttouch”.
+   
 3. Once the software is installed open the folder and double click on the .exe file to open and work with eclipse.
 4. Install Maven plugin from store by following the steps given below:
-
-		a. Go to Help -> Eclipse Marketplace
-		b. Search by Maven
-		c. Click "Install" button at "Maven Integration for Eclipse" section
-		d. Follow the instruction step by step till finish.
+    * Go to Help -> Eclipse Marketplace
+    * Search by Maven
+    * Click "Install" button at "Maven Integration for Eclipse" section
+    * Follow the instruction step by step till finish.
 
 ## OTHER SOFTWARE REQUIRED: ##
 
