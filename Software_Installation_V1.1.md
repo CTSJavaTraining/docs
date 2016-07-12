@@ -6,19 +6,19 @@ INSTRUCTIONS TO GET ADMIN RIGHTS:
 	3.	Click on the One NSS app and register to get your admin rights.
 	4.	If you have any problems or doubts regarding this click on “expertchat” on your task bar. 
 	5.	The admin rights is required to install MAVEN and JAVA, without admin rights the system variables cannot be edited.
-		(https://github.com/CTSJavaTraining/Images/expert_touch.png "Admin_Rights") 
+		![alt tag](https://github.com/CTSJavaTraining/Images/expert_touch.png "Admin_Rights") 
 	
 MAVEN INSTALLATION STEPS:
 
 	1.	Download Maven from website https://maven.apache.org/download.cgi 
 	2.	Click on the link apache-maven-3.3.9-bin.zip to get the zip file downloaded.
 	3.	Unzip the file and keep it in D:\ drive.
-	![alt text](https://github.com/CTSJavaTraining/Images/blob/master/maven_download.png "Maven_Download")
+	![alt tag](https://github.com/CTSJavaTraining/Images/blob/master/maven_download.png "Maven_Download")
 
 MAVEN INSTALLATION:
 
 	1.	Check if JAVA8 is installed in your system
-		![alt text](https://github.com/CTSJavaTraining/Images/blob/master/Java_Version_Check.png "JAVA_VERSION_CHECK")
+		![alt tag](https://github.com/CTSJavaTraining/Images/blob/master/Java_Version_Check.png "JAVA_VERSION_CHECK")
 
 		If JAVA 8 in not installed do the following steps.
 		a.	Raise phoenix request for JAVA 8 software.
