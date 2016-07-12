@@ -23,12 +23,12 @@
 
   If JAVA 8 in not installed do the following steps.
 	
-    * Raise phoenix request for JAVA 8 software.
-    * Once the software is installed in path “C:\Program Files\Java”
-    * Start-> ControlPanel > System > Advanced system settings
-    * Click on the “edit” button under system variables and add “JAVA_HOME to C:\Program Files\Java\jdk1.8.0_91
-    * Ensure JDK is installed and not JRE
-    * Check if JAVA is installed properly using the command “java -version” in command prompt.
+  * Raise phoenix request for JAVA 8 software.
+  * Once the software is installed in path “C:\Program Files\Java”
+  * Start-> ControlPanel > System > Advanced system settings
+  * Click on the “edit” button under system variables and add “JAVA_HOME to C:\Program Files\Java\jdk1.8.0_91
+  * Ensure JDK is installed and not JRE
+  * Check if JAVA is installed properly using the command “java -version” in command prompt.
 	
 2. Start-> ControlPanel > System > Advanced system settings
 3. Click on the “edit” button under system variables and add “M2_HOME= D:\apache-maven-3.3.9-bin\apache-maven-3.3.9” and “MAVEN_HOME= D:\apache-maven-3.3.9-bin\apache-maven-3.3.9”.
