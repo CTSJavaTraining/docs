@@ -20,12 +20,14 @@
 1.Check if JAVA8 is installed in your system
 ![alt text](https://github.com/CTSJavaTraining/Images/blob/master/Java_Version_Check.png "JAVA_VERSION_CHECK")
 	If JAVA 8 in not installed do the following steps.
+	
 	a.Raise phoenix request for JAVA 8 software.
 	b.Once the software is installed in path “C:\Program Files\Java”
 	c.Start-> ControlPanel > System > Advanced system settings
 	d.Click on the “edit” button under system variables and add “JAVA_HOME to C:\Program Files\Java\jdk1.8.0_91
 	e.Ensure JDK is installed and not JRE
 	f.Check if JAVA is installed properly using the command “java -version” in command prompt.
+	
 2.Start-> ControlPanel > System > Advanced system settings
 3.Click on the “edit” button under system variables and add “M2_HOME= D:\apache-maven-3.3.9-bin\apache-maven-3.3.9” and “MAVEN_HOME= D:\apache-maven-3.3.9-bin\apache-maven-3.3.9”.
 4.Also append the following to the path variable under system variable 
