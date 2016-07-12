@@ -1,11 +1,11 @@
 
 ## INSTRUCTIONS TO GET ADMIN RIGHTS: ##
 
-* 1.	Go to the link https://onecognizant.cognizant.com/
-* 2.	On the app store select “admin rights”
-* 3.	Click on the One NSS app and register to get your admin rights.
-* 4.	If you have any problems or doubts regarding this click on “expertchat” on your task bar. 
-* 5.	The admin rights is required to install MAVEN and JAVA, without admin rights the system variables cannot be edited.
++ 1. Go to the link https://onecognizant.cognizant.com/
++ 2. On the app store select “admin rights”
++ 3. Click on the One NSS app and register to get your admin rights.
++ 4. If you have any problems or doubts regarding this click on “expertchat” on your task bar. 
++ 5. The admin rights is required to install MAVEN and JAVA, without admin rights the system variables cannot be edited.
 ![alt text](https://github.com/CTSJavaTraining/Images/blob/master/expert_touch.png)
 	
 ## MAVEN INSTALLATION STEPS: ##
