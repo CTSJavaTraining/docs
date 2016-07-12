@@ -1,12 +1,12 @@
 
 ## INSTRUCTIONS TO GET ADMIN RIGHTS: ##
 
-	1.	Go to the link https://onecognizant.cognizant.com/
-	2.	On the app store select “admin rights”
-	3.	Click on the One NSS app and register to get your admin rights.
-	4.	If you have any problems or doubts regarding this click on “expertchat” on your task bar. 
-	5.	The admin rights is required to install MAVEN and JAVA, without admin rights the system variables cannot be edited.
-		![alt tag](http://cloud.githubusercontent.com/assets/20299950/16759271/bccd3f14-4833-11e6-8285-471f649496b6.png)
+*	1.	Go to the link https://onecognizant.cognizant.com/
+*	2.	On the app store select “admin rights”
+*	3.	Click on the One NSS app and register to get your admin rights.
+*	4.	If you have any problems or doubts regarding this click on “expertchat” on your task bar. 
+*	5.	The admin rights is required to install MAVEN and JAVA, without admin rights the system variables cannot be edited.
+![alt tag](http://cloud.githubusercontent.com/assets/20299950/16759271/bccd3f14-4833-11e6-8285-471f649496b6.png)
 	
 ## MAVEN INSTALLATION STEPS: ##
 
@@ -39,7 +39,9 @@
 
 	1.	Go to path “D:\apache-maven-3.3.9-bin\apache-maven-3.3.9\conf”
 	2.	Open settings.xml file and edit the <proxies> tag as:
-			<proxies>
+	
+```xml
+<proxies>
     			<proxy>
       				<id>optional</id>
      				<active>true</active>
@@ -50,6 +52,8 @@
       				<port>6050</port>
  				</proxy>
  			</proxies>
+```
+
 
 ## DOWNLOAD AND INSTALL GIT: ##
 
