@@ -29,9 +29,12 @@
 	f.Check if JAVA is installed properly using the command “java -version” in command prompt.
 	
 2.Start-> ControlPanel > System > Advanced system settings
+
 3.Click on the “edit” button under system variables and add “M2_HOME= D:\apache-maven-3.3.9-bin\apache-maven-3.3.9” and “MAVEN_HOME= D:\apache-maven-3.3.9-bin\apache-maven-3.3.9”.
-4.Also append the following to the path variable under system variable 
+
+4.Also append the following to the path variable under system variable
 	a.%MVN_HOME%\bin; %JAVA_HOME%\bin\
+	
 5.In command prompt type the command “mvn --version” to check if MAVEN is properly installed in your system.
 
 ## EDITING SETTINGS.XML FILE: ##
