@@ -1,4 +1,4 @@
-## LINKS TO FILES THAT WILL BE USED DURING TRAINING: ##
+## Index ##
 
 
 [Agreement](https://github.com/CTSJavaTraining/docs/blob/master/Agreement.md)
