@@ -25,7 +25,5 @@ Engineering Excellence team at Walt Disney is a high-end team working in   cutti
 
 ## LOCATION OF DOCUMENTS FOR TRAINING: ##
 
-	•	GIT Locationn of Software_Installation.md: 
-![hyperlink](https://github.com/CTSJavaTraining/docs/Software_Installation_V1.1.md)
-	•	GIT Locationn of Topics.md:
-![hyperlink](https://github.com/CTSJavaTraining/docs/Topics.md)
+	•	GIT Locationn of Software_Installation.md -https://github.com/CTSJavaTraining/docs
+	•	GIT Locationn of Topics.md - https://github.com/CTSJavaTraining/docs
