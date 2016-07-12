@@ -10,9 +10,9 @@
 	
 ## MAVEN INSTALLATION STEPS: ##
 
-1.Download Maven from website https://maven.apache.org/download.cgi 
-2.Click on the link apache-maven-3.3.9-bin.zip to get the zip file downloaded.
-3.Unzip the file and keep it in D:\ drive.
+1. Download Maven from website https://maven.apache.org/download.cgi 
+2. Click on the link apache-maven-3.3.9-bin.zip to get the zip file downloaded.
+3. Unzip the file and keep it in D:\ drive.
 ![alt text](https://github.com/CTSJavaTraining/Images/blob/master/maven_download.png)
 
 ## MAVEN INSTALLATION: ##
